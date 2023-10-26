@@ -2,6 +2,13 @@
 
 A Markdown version of my resume.
 
+> **Warning**  
+> This repo is a work in progress!
+
+> **Notre**  
+> This repo is avialable at
+> https://codeadamca.github.io/resume/
+
 ***
 
 ## Repo Resources
