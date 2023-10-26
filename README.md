@@ -5,8 +5,8 @@ A Markdown version of my resume.
 > **Warning**  
 > This repo is a work in progress!
 
-> **Notr**  
-> This repo is avialable at
+> **Note**  
+> This repo is avialable at  
 > https://codeadamca.github.io/resume/
 
 ***
